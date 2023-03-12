@@ -1,0 +1,46 @@
+.ahvc {
+ text-align: left;
+ color: #000000;
+ font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ 
+ 
+}
+
+.introducion {
+    background-image: url("R.gif")
+}
+
+h1 {
+ text-align: left;
+ color: rgb(0, 0, 0);
+}
+
+body {
+    background-image: url("confete.gif");
+}
+
+.back {
+    transform: scale(0.5);
+    justify-content: left;
+}
+
+.texto {
+    font-family: cursive;
+    color:blueviolet
+}
+
+.disclaimer{
+    text-align: center;
+}
+
+h5 {
+    color: red;
+}
+
+.obg {
+    font-family: cursive;
+}
+
+.espaco{
+    transform: scale(0.5);
+}
